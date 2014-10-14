@@ -1,0 +1,8 @@
+Version 2
+		* updated TOC to 5.1
+
+Version 1
+		* rename version for live realms
+
+Version 0.1 (beta)
+		* initial release on beta realms

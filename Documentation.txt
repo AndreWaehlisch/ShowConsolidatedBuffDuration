@@ -1,0 +1,3 @@
+== <<size 220%>><<color #FF7D0A>>__ShowConsolidatedBuffDuration__<</color>><</size>>
+
+This very lightweight addon displays the duration of your raid buffs in the consolidated buff window (in form of a reversed cooldown animation, see screenshot). That's all, no saved variables, no slash commands.

@@ -1,0 +1,11 @@
+## Interface: 50100
+
+## Title: ShowConsolidatedBuffDuration
+
+## Version: 2
+
+## Notes: Shows duration of buffs in consolidated buff window.
+
+## Author: |cffFF7D0AHoochie|r @EU-Dethecus
+
+ShowConsolidatedBuffDuration.lua
